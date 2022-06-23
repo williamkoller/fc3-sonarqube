@@ -1,0 +1,6 @@
+mode: set
+/home/william/sonarkube/fc3-sonarqube/sum.go:5.13,7.2 1 0
+/home/william/sonarkube/fc3-sonarqube/sum.go:9.24,11.2 1 1
+/home/william/sonarkube/fc3-sonarqube/sum.go:13.24,15.2 1 0
+/home/william/sonarkube/fc3-sonarqube/sum.go:17.24,19.2 1 0
+/home/william/sonarkube/fc3-sonarqube/sum.go:21.25,23.2 1 0
